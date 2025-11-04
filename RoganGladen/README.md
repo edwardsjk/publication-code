@@ -14,8 +14,6 @@
 -   `age_g30`: Indicator of age \> 30
 -   `sti`: Indicator of STI symptoms in past 4 weeks
 
-`R`: R code for all analyses
-
 `R/helper.R`
 
 - R helper functions for primary analysis
