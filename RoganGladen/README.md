@@ -21,3 +21,14 @@
 `example_analysis.R`
 
 -   R code for all analyses
+
+## System Details
+
+R 4.5.1
+
+- Dependencies: `rootSolve_1.8.2.4`, `tidyr_1.3.1`, `dplyr_1.1.4 `, and `fastDummies_1.7.5`
+
+Python 3.9.4
+
+- Dependencies: `numpy (1.25.2)`, `pandas (1.4.1)`,  `formulaic (0.5.2)`,  `delicatessen (3.1)`
+
